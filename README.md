@@ -1,2 +1,2 @@
-# Bootstrap-Example-1
-Bootstrap website
+# Thomas R. Thompson, LLC Bootstrap Website
+Tommy Bootstrap website
